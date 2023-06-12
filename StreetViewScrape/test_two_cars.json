@@ -1,0 +1,209 @@
+{
+  "labelAnnotations": [
+    {
+      "description": "Vehicle",
+      "mid": "/m/07yv9",
+      "score": 0.96319395,
+      "topicality": 0.96319395
+    },
+    {
+      "description": "Car",
+      "mid": "/m/0k4j",
+      "score": 0.94402707,
+      "topicality": 0.94402707
+    },
+    {
+      "description": "Mode of transport",
+      "mid": "/m/079bkr",
+      "score": 0.80817014,
+      "topicality": 0.80817014
+    },
+    {
+      "description": "Neighbourhood",
+      "mid": "/m/0180xr",
+      "score": 0.80066156,
+      "topicality": 0.80066156
+    },
+    {
+      "description": "Asphalt",
+      "mid": "/m/0hr8",
+      "score": 0.76643074,
+      "topicality": 0.76643074
+    },
+    {
+      "description": "Road",
+      "mid": "/m/06gfj",
+      "score": 0.6971899,
+      "topicality": 0.6971899
+    },
+    {
+      "description": "Residential area",
+      "mid": "/m/02nfxt",
+      "score": 0.649506,
+      "topicality": 0.649506
+    },
+    {
+      "description": "Street",
+      "mid": "/m/01c8br",
+      "score": 0.64935994,
+      "topicality": 0.64935994
+    },
+    {
+      "description": "Parking",
+      "mid": "/m/01jp76",
+      "score": 0.62899476,
+      "topicality": 0.62899476
+    },
+    {
+      "description": "Building",
+      "mid": "/m/0cgh4",
+      "score": 0.56988376,
+      "topicality": 0.56988376
+    },
+    {
+      "description": "Lane",
+      "mid": "/m/033j3c",
+      "score": 0.55889565,
+      "topicality": 0.55889565
+    },
+    {
+      "description": "City",
+      "mid": "/m/01n32",
+      "score": 0.51347554,
+      "topicality": 0.51347554
+    },
+    {
+      "description": "Apartment",
+      "mid": "/m/01nblt",
+      "score": 0.5109193,
+      "topicality": 0.5109193
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.61123073,
+            "y": 0.69279426
+          },
+          {
+            "x": 0.99471694,
+            "y": 0.69279426
+          },
+          {
+            "x": 0.99471694,
+            "y": 0.9956277
+          },
+          {
+            "x": 0.61123073,
+            "y": 0.9956277
+          }
+        ]
+      },
+      "mid": "/m/0k4j",
+      "name": "Car",
+      "score": 0.8602076
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.6544158,
+            "y": 0.8692055
+          },
+          {
+            "x": 0.7392872,
+            "y": 0.8692055
+          },
+          {
+            "x": 0.7392872,
+            "y": 0.9935116
+          },
+          {
+            "x": 0.6544158,
+            "y": 0.9935116
+          }
+        ]
+      },
+      "mid": "/m/0h9mv",
+      "name": "Tire",
+      "score": 0.82140535
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.29899547,
+            "y": 0.46587148
+          },
+          {
+            "x": 0.43453678,
+            "y": 0.46587148
+          },
+          {
+            "x": 0.43453678,
+            "y": 0.61090904
+          },
+          {
+            "x": 0.29899547,
+            "y": 0.61090904
+          }
+        ]
+      },
+      "mid": "/m/0k4j",
+      "name": "Car",
+      "score": 0.80189645
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.20767634,
+            "y": 0.017451541
+          },
+          {
+            "x": 0.3816242,
+            "y": 0.017451541
+          },
+          {
+            "x": 0.3816242,
+            "y": 0.43348873
+          },
+          {
+            "x": 0.20767634,
+            "y": 0.43348873
+          }
+        ]
+      },
+      "mid": "/m/0cgh4",
+      "name": "Building",
+      "score": 0.76363456
+    },
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.80274135,
+            "y": 0.23969871
+          },
+          {
+            "x": 0.8724535,
+            "y": 0.23969871
+          },
+          {
+            "x": 0.8724535,
+            "y": 0.44388714
+          },
+          {
+            "x": 0.80274135,
+            "y": 0.44388714
+          }
+        ]
+      },
+      "mid": "/m/0d4v4",
+      "name": "Window",
+      "score": 0.520978
+    }
+  ]
+}
